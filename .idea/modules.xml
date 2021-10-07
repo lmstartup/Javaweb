@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Javaweb.iml" filepath="$PROJECT_DIR$/Javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC-demo1/SpringMVC-demo1.iml" filepath="$PROJECT_DIR$/SpringMVC-demo1/SpringMVC-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVCdemo2/SpringMVCdemo2.iml" filepath="$PROJECT_DIR$/SpringMVCdemo2/SpringMVCdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ems_vue/ems_vue.iml" filepath="$PROJECT_DIR$/ems_vue/ems_vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavendemo/mavendemo.iml" filepath="$PROJECT_DIR$/mavendemo/mavendemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springMVC_demo3/springMVC_demo3.iml" filepath="$PROJECT_DIR$/springMVC_demo3/springMVC_demo3.iml" />
+    </modules>
+  </component>
+</project>

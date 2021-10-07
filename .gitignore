@@ -1,0 +1,6 @@
+# Project exclude paths
+/ems_vue/target/
+/out/
+/SpringMVC-demo1/target/
+/springMVC_demo3/target/
+/SpringMVCdemo2/target/
